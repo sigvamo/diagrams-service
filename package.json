@@ -1,0 +1,16 @@
+{
+  "name": "diagrams",
+  "version": "1.0.0",
+  "description": "Diagram generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aychin",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1174.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
